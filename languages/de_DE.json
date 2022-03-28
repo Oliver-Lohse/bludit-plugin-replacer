@@ -1,0 +1,9 @@
+{
+	"plugin-data":
+	{
+		"name": "CMSWB Replacer",
+		"description": "Dieses Plugin ersetzt einen Textbaustein <strong>{{xyz}}</strong> im Post, durch den Inhalt einer statischen Seite, deren Slug exakt <strong>xyz</strong> lautet"
+	},
+	"tipp-header": "Wird am Beginn des Bodys eingefügt",
+	"tipp-footer": "Code für den Footer ggf. inkl. HTML-Angaben"
+}
